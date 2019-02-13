@@ -12,7 +12,7 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Paul F. Jaeger
 #subtitle:
 subtitle: Frontend Developer
 
@@ -42,7 +42,7 @@ baseurl: ''
 # https://support.google.com/analytics/answer/2763052
 #ga:
 ga:
-    account: 'UA-120960520-1'
+    account: ''
     cookieconsent: true
     anonymizeip: true
 
