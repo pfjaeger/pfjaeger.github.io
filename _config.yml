@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Paul F. Jaeger
 #subtitle:
-subtitle: PhD Candidate at KIT
+subtitle: PhD Candidate at KIT and MIC-DKFZ
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -80,7 +80,7 @@ links:
       icon: fab fa-twitter
   - weibo:
       name: 微博
-      show: true
+      show: false
       href: https://weibo.com/YOUR_WEIBO_USERNAME
       icon: fab fa-weibo
   - vine:
@@ -95,7 +95,7 @@ links:
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
@@ -145,7 +145,7 @@ links:
       icon: fab fa-reddit
   - medium:
       name: Medium
-      show: false
+      show: true
       href: https://medium.com/@YOUR_MEDIUM_USERNAME
       icon: fab fa-medium
   - tumblr:
@@ -155,7 +155,7 @@ links:
       icon: fab fa-tumblr
   - blog:
       name: Blog
-      show: true
+      show: false
       href: http://host.domain/your_blog
       icon: fas fa-book-open
   - email:
@@ -165,15 +165,20 @@ links:
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
-      show: true
+      show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
       icon: fas fa-key
+  - googlescholar:
+      name: Google Scholar
+      show: true
+      href: https://scholar.google.de/citations?user=9B9-8h0AAAAJ&hl=de
+      icon: fas fa-graduation-cap
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
     Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum test.
+    such as links or ... lorem ipsum test2.
 
 #EOF
