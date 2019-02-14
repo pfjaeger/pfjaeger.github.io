@@ -78,11 +78,6 @@ links:
       show: true
       href: https://twitter.com/pfjaeger
       icon: fab fa-twitter
-  - hdai:
-      name: Heidelberg AI
-      show: true
-      href: https://heidelberg.ai
-      icon: fas fa-keynote
   - medium:
       name: Medium
       show: true
