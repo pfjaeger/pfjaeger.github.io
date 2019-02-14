@@ -158,16 +158,16 @@ links:
       show: false
       href: http://host.domain/your_blog
       icon: fas fa-book-open
-  - email:
-      name: Email
-      show: true
-      href: mailto:p.jaeger@dkfz.de
-      icon: fas fa-envelope
   - googlescholar:
       name: Google Scholar
       show: true
       href: https://scholar.google.de/citations?user=9B9-8h0AAAAJ&hl=de
       icon: fas fa-graduation-cap
+  - email:
+      name: Email
+      show: true
+      href: mailto:p.jaeger@dkfz.de
+      icon: fas fa-envelope
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
