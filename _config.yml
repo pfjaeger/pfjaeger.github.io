@@ -87,7 +87,7 @@ links:
       name: Heidelberg AI
       show: true
       href: https://heidelberg.ai
-      icon: fas fa-keynote
+      icon: fas fa-users
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
