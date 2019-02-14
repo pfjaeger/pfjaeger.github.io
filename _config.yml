@@ -76,7 +76,7 @@ links:
   - twitter:
       name: Twitter
       show: true
-      href: https://twitter.com/YOUR_TWITTER_USERNAME
+      href: https://twitter.com/pfjaeger
       icon: fab fa-twitter
   - weibo:
       name: 微博
@@ -126,7 +126,7 @@ links:
   - github:
       name: GitHub
       show: true
-      href: https://github.com/tsjensen
+      href: https://github.com/pfjaeger
       icon: fab fa-github
   - codepen:
       name: CodePen
@@ -161,7 +161,7 @@ links:
   - email:
       name: Email
       show: true
-      href: mailto:jonathan.doe@host.domain
+      href: mailto:p.jaeger@dkfz.de
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
@@ -178,7 +178,6 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum test2.
+    
 
 #EOF
