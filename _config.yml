@@ -163,11 +163,6 @@ links:
       show: true
       href: mailto:p.jaeger@dkfz.de
       icon: fas fa-envelope
-  - publickey:
-      name: PGP Key
-      show: false
-      href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
-      icon: fas fa-key
   - googlescholar:
       name: Google Scholar
       show: true
