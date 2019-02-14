@@ -73,13 +73,13 @@ links:
       show: true
       href: mailto:p.jaeger@dkfz.de
       icon: fas fa-envelope
- - twitter:
+  - twitter:
       name: Twitter
       show: true
       href: https://twitter.com/pfjaeger
       icon: fab fa-twitter
   - hdai:
-      name: heidelberg.ai
+      name: Heidelberg AI
       show: true
       href: https://heidelberg.ai
       icon: fas fa-keynote
