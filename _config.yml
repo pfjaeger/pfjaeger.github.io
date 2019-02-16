@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Paul F. Jaeger
 #subtitle:
-subtitle: PhD Candidate at KIT and MIC-DKFZ
+subtitle: PhD Candidate at <a href="https://cvhci.anthropomatik.kit.edu/587.php">KIT</a> and <a href="https://www.dkfz.de/en/mic/index.php">MIC-DKFZ</a>
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -23,8 +23,8 @@ title:
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
-    keywords: foo, bar, baz
+    description: Paul F. Jaeger
+    keywords: Paul F. Jaeger, Paul Jaeger
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
@@ -68,11 +68,11 @@ links:
       show: true
       href: https://github.com/pfjaeger
       icon: fab fa-github
-  - medium:
-      name: Medium
+  - CV:
+      name: CV
       show: true
       href: https://medium.com/@YOUR_MEDIUM_USERNAME
-      icon: fab fa-medium
+      icon: fab fa-file-alt
   - googlescholar:
       name: Google Scholar
       show: true
