@@ -77,7 +77,7 @@ links:
       name: CV
       show: true
       href: https://docs.google.com/document/d/12awun_CQI1NrJH-8VFtHic1CSA2BwKUwscS-PooGy0c/edit?usp=sharing
-      icon: far fab-file
+      icon: fas fab-file
   - email:
       name: Email
       show: true
