@@ -72,7 +72,7 @@ links:
       name: CV
       show: true
       href: https://docs.google.com/document/d/12awun_CQI1NrJH-8VFtHic1CSA2BwKUwscS-PooGy0c/edit?usp=sharing
-      icon: fab fa-file
+      icon: far fab-file
   - googlescholar:
       name: Google Scholar
       show: true
