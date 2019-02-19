@@ -58,26 +58,26 @@ avatar: "https://pbs.twimg.com/profile_images/839191751755763713/bl9GpETD_400x40
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - twitter:
-      name: Twitter
-      show: true
-      href: https://twitter.com/pfjaeger
-      icon: fab fa-twitter
   - github:
       name: GitHub
       show: true
       href: https://github.com/pfjaeger
       icon: fab fa-github
-  - CV:
-      name: CV
-      show: true
-      href: https://docs.google.com/document/d/12awun_CQI1NrJH-8VFtHic1CSA2BwKUwscS-PooGy0c/edit?usp=sharing
-      icon: far fab-file
   - googlescholar:
       name: Google Scholar
       show: true
       href: https://scholar.google.de/citations?user=9B9-8h0AAAAJ&hl=de
       icon: fas fa-graduation-cap
+  - twitter:
+      name: Twitter
+      show: true
+      href: https://twitter.com/pfjaeger
+      icon: fab fa-twitter
+  - CV:
+      name: CV
+      show: true
+      href: https://docs.google.com/document/d/12awun_CQI1NrJH-8VFtHic1CSA2BwKUwscS-PooGy0c/edit?usp=sharing
+      icon: far fab-file
   - email:
       name: Email
       show: true
