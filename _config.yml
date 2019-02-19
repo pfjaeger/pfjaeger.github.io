@@ -71,7 +71,7 @@ links:
   - CV:
       name: CV
       show: true
-      href: https://medium.com/@YOUR_MEDIUM_USERNAME
+      href: https://docs.google.com/document/d/12awun_CQI1NrJH-8VFtHic1CSA2BwKUwscS-PooGy0c/edit?usp=sharing
       icon: fab fa-file
   - googlescholar:
       name: Google Scholar
