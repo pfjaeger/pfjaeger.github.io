@@ -100,9 +100,9 @@ extra_html:
   <script src='https://slideslive.com/embed_presentation.js'></script>
   <script>
   embed = new SlidesLiveEmbed('presentation-embed-38923239', {
-  presentationId:: '38923239',
-  autoPlay:: false, // change to true to autoplay the embedded presentation
-  verticalEnabled:: true
+  presentationId&#58; '38923239',
+  autoPlay&#58; false, // change to true to autoplay the embedded presentation
+  verticalEnabled&#58; true
   });
   </script>
   <br><br><br><br><br><br><br>
