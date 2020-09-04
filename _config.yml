@@ -103,7 +103,7 @@ extra_html: |
   presentationId: '38923239',
   autoPlay: false,
   verticalEnabled: true,
-  demo: false,
+  demo: true,
   startTime: 568,
   startSlide: 9
   });
