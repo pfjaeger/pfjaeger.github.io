@@ -101,9 +101,9 @@ extra_html: |
   <script>
   embed = new SlidesLiveEmbed('presentation-embed-38923239', {
   presentationId: '38923239',
-  autoPlay: false,
+  autoPlay: true,
   verticalEnabled: true,
-  demo: true,
+  demo: false,
   startTime: 568,
   startSlide: 9
   });
