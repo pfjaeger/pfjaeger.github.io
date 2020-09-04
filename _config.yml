@@ -95,7 +95,7 @@ links:
 extra_html: |
 
   <br><br><br><br><br>
-  test6
+  test7
   <div id="presentation-embed-38923239"></div>
   <script src='https://slideslive.com/embed_presentation.js'></script>
   <script>
@@ -103,6 +103,7 @@ extra_html: |
   presentationId: '38923239',
   autoPlay: false,
   verticalEnabled: true,
+  demo: false,
   startTime: 568,
   startSlide: 9
   });
