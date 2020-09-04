@@ -14,8 +14,8 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Paul F. Jaeger
 #subtitle:
-subtitle: PhD Candidate at <a href="https://cvhci.anthropomatik.kit.edu/587.php" style="color:rgb(211,211,211)">KIT</a> and <a href="https://www.dkfz.de/en/mic/index.php" style="color:rgb(211,211,211)">MIC-DKFZ</a>.
-  Previously Research Intern at <a href="https://research.fb.com/category/facebook-ai-research/index.php" style="color:rgb(211,211,211)">Facebook AI</a>.
+subtitle: Postdoc at <a href="https://www.dkfz.de/en/mic/index.php" style="color:rgb(211,211,211)">MIC-DKFZ</a>.
+  Previously PhD Candidate at <a href="https://cvhci.anthropomatik.kit.edu/587.php" style="color:rgb(211,211,211)">KIT</a> and Research Intern at <a href="https://research.fb.com/category/facebook-ai-research/index.php" style="color:rgb(211,211,211)">Facebook AI</a>.
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -51,7 +51,7 @@ ga:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://pbs.twimg.com/profile_images/839191751755763713/bl9GpETD_400x400.jpg"
+avatar: "images/paul_new_foto_squared_lowres.jpg"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
