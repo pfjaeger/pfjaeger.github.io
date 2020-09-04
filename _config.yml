@@ -99,11 +99,22 @@ extra_html:
   <div>
   <video controlslist="nodownload" oncontextmenu="return false" class="embed-responsive-item" src="https://zkm.de/media/video/i6180_18_MTH_S_VW_BB_EncodingCultures_16_Jaeger_720p.mp4" preload="none" poster="https://zkm.de/media/video/img/i6180_18_mth_s_vh_bb_encodingcultures_jaeger_16.jpg" controls="controls"></video>
   </div>
-
+  #<div>
+  #<video controlslist="nodownload" oncontextmenu="return false" class="embed-responsive-item" src="https://www.youtube.com/embed/Dwi5vXuz_Ow?start=580" preload="none" poster="https://zkm.de/media/video/img/i6180_18_mth_s_vh_bb_encodingcultures_jaeger_16.jpg" controls="controls"></video>
+  #</div>
+  <div id="presentation-embed-38923239"></div>
+  <script src='https://slideslive.com/embed_presentation.js'></script>
+  <script>
+  embed = new SlidesLiveEmbed('presentation-embed-38923239', {
+  presentationId: '38923239',
+  autoPlay: false, // change to true to autoplay the embedded presentation
+  verticalEnabled: true
+  });
+  </script>
 
   <br><br><br><br><br><br><br>
     #Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    
+#<iframe class="slp__videoPlayer__content" data-slp-target="videoElement" id="slp-bzgne" frameborder="0" allowfullscreen="1" allow="autoplay" title="YouTube video player" width="640" height="360" src="https://www.youtube-nocookie.com/embed/Dwi5vXuz_Ow?enablejsapi=1&amp;origin=https%3A%2F%2Fslideslive.com&amp;autoplay=0&amp;controls=0&amp;disablekb=1&amp;fs=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;rel=0&amp;start=0&amp;cc_load_policy=1&amp;widgetid=1" style="width: 784px; height: 441px;"></iframe>
 
 #EOF
