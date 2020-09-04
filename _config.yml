@@ -95,7 +95,7 @@ links:
 extra_html: |
 
   <br><br><br><br><br>
-  test8
+  Spotlight talk at Neurips 2019 (Machine Learning 4 Health Workshop)
   <div id="presentation-embed-38923239"></div>
   <script src='https://slideslive.com/embed_presentation.js'></script>
   <script>
@@ -108,7 +108,10 @@ extra_html: |
   startSlide: 9
   });
   </script>
-  <br><br><br><br><br><br><br>
+  <br><br>
+  Invited talk at Encoding Cultures Conference 2018
+  <video controlslist="nodownload" oncontextmenu="return false" class="embed-responsive-item" src="https://zkm.de/media/video/i6180_18_MTH_S_VW_BB_EncodingCultures_16_Jaeger_720p.mp4" preload="none" poster="https://zkm.de/media/video/img/i6180_18_mth_s_vh_bb_encodingcultures_jaeger_16.jpg" controls="controls"></video>
+  <br><br><br><br><br>
 
 #EOF
 #<script src='https://slideslive.com/embed_presentation.js'></script>
