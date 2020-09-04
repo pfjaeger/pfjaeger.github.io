@@ -92,6 +92,10 @@ links:
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
-extra_html: <br><br><br><br><br>test2<br><br><br><br><br><br><br>
+extra_html:
+
+  <br><br><br><br><br>
+  test3
+  <br><br><br><br><br><br><br>
 
 #EOF
