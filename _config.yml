@@ -95,11 +95,15 @@ links:
 extra_html:
 
   <br><br><br><br><br>
-  test8
+  test
   <div id="presentation-embed-38923239"></div>
   <script src='https://slideslive.com/embed_presentation.js'></script>
   <script>
-  embed = new SlidesLiveEmbed('presentation-embed-38923239', {autoPlay:false, verticalEnabled: true});
+  embed = new SlidesLiveEmbed('presentation-embed-38923239', {
+  presentationId:: '38923239',
+  autoPlay:: false, // change to true to autoplay the embedded presentation
+  verticalEnabled:: true
+  });
   </script>
   <br><br><br><br><br><br><br>
 
