@@ -104,14 +104,15 @@ extra_html: |
   autoPlay: false,
   verticalEnabled: true,
   demo: false,
-  poster: images/paul_new_foto_squared_lowres.jpg,
   startTime: 568,
   startSlide: 9
   });
   </script>
   <br><br>
   Invited talk at Encoding Cultures Conference 2018
-  <video width="100" controlslist="nodownload" oncontextmenu="return false" class="embed-responsive-item" src="https://zkm.de/media/video/i6180_18_MTH_S_VW_BB_EncodingCultures_16_Jaeger_720p.mp4" preload="none" poster="https://zkm.de/media/video/img/i6180_18_mth_s_vh_bb_encodingcultures_jaeger_16.jpg" controls="controls"></video>
+  <div>
+  <video width="1000" controlslist="nodownload" oncontextmenu="return false" class="embed-responsive-item" src="https://zkm.de/media/video/i6180_18_MTH_S_VW_BB_EncodingCultures_16_Jaeger_720p.mp4" preload="none" poster="https://zkm.de/media/video/img/i6180_18_mth_s_vh_bb_encodingcultures_jaeger_16.jpg" controls="controls"></video>
+  </div>
   <br><br><br><br><br>
 
 #EOF
