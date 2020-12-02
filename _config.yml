@@ -95,11 +95,13 @@ links:
 extra_html: |
 
   <br><br><br><br><br>
-  Spotlight talk at Neurips 2019 (Machine Learning 4 Health Workshop)
+  Invited Talk at CAMI Data Science Seminar
   <br><br>
-  <iframe width="1680" height="945" src="https://www.youtube.com/embed/3po8qVzz5Tc" frameborder="0" allow="accelerometer;
+  <iframe width="3360" height="1890" src="https://www.youtube.com/embed/3po8qVzz5Tc" frameborder="0" allow="accelerometer;
   autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br><br>
+  Spotlight talk at Neurips 2019 (Machine Learning 4 Health Workshop)
+  <br><br>
   <div id="presentation-embed-38923239"></div>
   <script src='https://slideslive.com/embed_presentation.js'></script>
   <script>
@@ -116,7 +118,7 @@ extra_html: |
   Invited talk at Encoding Cultures Conference 2018
   <br><br>
   <div>
-  <video width="100%" controlslist="nodownload" oncontextmenu="return false" class="embed-responsive-item" src="https://zkm.de/media/video/i6180_18_MTH_S_VW_BB_EncodingCultures_16_Jaeger_720p.mp4"
+  <video width="70%" controlslist="nodownload" oncontextmenu="return false" class="embed-responsive-item" src="https://zkm.de/media/video/i6180_18_MTH_S_VW_BB_EncodingCultures_16_Jaeger_720p.mp4"
   preload="none" poster="https://zkm.de/media/video/img/i6180_18_mth_s_vh_bb_encodingcultures_jaeger_16.jpg" controls="controls"></video>
   </div>
   <br><br><br><br><br>
