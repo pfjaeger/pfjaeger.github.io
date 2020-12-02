@@ -97,7 +97,7 @@ extra_html: |
   <br><br><br><br><br>
   Invited Talk at CAMI Data Science Seminar
   <br><br>
-  <iframe width="1680" height="945" src="https://www.youtube.com/embed/3po8qVzz5Tc" frameborder="0" allow="accelerometer;
+  <iframe width="840" height="470" src="https://www.youtube.com/embed/3po8qVzz5Tc" frameborder="0" allow="accelerometer;
   autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br><br>
   Spotlight talk at Neurips 2019 (Machine Learning 4 Health Workshop)
