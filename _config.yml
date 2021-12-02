@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Paul F. Jaeger
 #subtitle:
-subtitle: PI at <a href="https://www.dkfz.de/en/interaktives-maschinelles-lernen/index.php" style="color:rgb(211,211,211)"> Interactive Machine Learning Research Group</a> at DKFZ and <a href="https://www.helmholtz-imaging.de" style="color:rgb(211,211,211)">Helmholtz-Imaging</a>.<br> Previously at <a href="https://www.dkfz.de/en/mic/index.php" style="color:rgb(211,211,211)">MIC-DKFZ</a>, <a href="https://cvhci.anthropomatik.kit.edu/587.php" style="color:rgb(211,211,211)">KIT</a>, and Research Intern at <a href="https://research.fb.com/category/facebook-ai-research/index.php" style="color:rgb(211,211,211)">Facebook AI</a>.
+subtitle: PI of <a href="https://www.dkfz.de/en/interaktives-maschinelles-lernen/index.php" style="color:rgb(211,211,211)"> Interactive Machine Learning Research Group</a> at DKFZ and <a href="https://www.helmholtz-imaging.de" style="color:rgb(211,211,211)">Helmholtz-Imaging</a>.<br> Previously at <a href="https://www.dkfz.de/en/mic/index.php" style="color:rgb(211,211,211)">MIC-DKFZ</a>, <a href="https://cvhci.anthropomatik.kit.edu/587.php" style="color:rgb(211,211,211)">KIT</a>, and Research Intern at <a href="https://research.fb.com/category/facebook-ai-research/index.php" style="color:rgb(211,211,211)">Facebook AI</a>.
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
