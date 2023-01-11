@@ -117,8 +117,7 @@ extra_html: |
   Invited talk at Encoding Cultures Conference 4/2018
   <br><br>
   <div>
-  <video width="100%" controlslist="nodownload" oncontextmenu="return false" class="embed-responsive-item" src="https://zkm.de/media/video/i6180_18_MTH_S_VW_BB_EncodingCultures_16_Jaeger_720p.mp4"
-  preload="none" poster="https://zkm.de/media/video/img/i6180_18_mth_s_vh_bb_encodingcultures_jaeger_16.jpg" controls="controls"></video>
+  <iframe src="https://drive.google.com/file/d/1Q94QVGxvnc1zdQEwY3yWdbMh-VUX8sVc/preview" width="640" height="480" allow="autoplay"></iframe>
   </div>
   <br><br><br><br><br>
 
