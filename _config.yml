@@ -103,6 +103,23 @@ extra_html: |
 
   <br><br><br><br><br>
   
+  Spotlight talk at Neurips (Machine Learning 4 Health Workshop) 12/2019
+  <br><br>
+  <div id="presentation-embed-38923239"></div>
+  <script src='https://slideslive.com/embed_presentation.js'></script>
+  <script>
+  embed = new SlidesLiveEmbed('presentation-embed-38923239', {
+  presentationId: '38923239',
+  autoPlay: false,
+  verticalEnabled: true,
+  demo: false,
+  startTime: 568,
+  startSlide: 9
+   });
+   </script>
+  
+  <br><br><br><br><br>
+  
   Invited talk at Encoding Cultures Conference 4/2018
   <br><br>
   <div id="vid-bottom">
@@ -133,17 +150,4 @@ extra_html: |
 #verticalEnabled: true
 #});
 
-#Spotlight talk at Neurips (Machine Learning 4 Health Workshop) 12/2019
-  #  <br><br>
-  #  <div id="presentation-embed-38923239"></div>
-  #  <script src='https://slideslive.com/embed_presentation.js'></script>
-  #  <script>
-  #  embed = new SlidesLiveEmbed('presentation-embed-38923239', {
-  #  presentationId: '38923239',
-  #  autoPlay: false,
-  #  verticalEnabled: true,
-  #  demo: false,
-  #  startTime: 568,
-  #  startSlide: 9
-#  });
-#  </script>
+
