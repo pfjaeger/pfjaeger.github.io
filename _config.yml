@@ -98,16 +98,9 @@ extra_html: |
   
   Oral ("top-5% paper") at ICLR 05/2023
   <br><br>
-  <div id="embed"></div>
-  <script src="https://slideslive.com/embed_presentation.js"></script>
-  <script>
-      embed = new SlidesLiveEmbed('embed', {
-          presentationId: 38998586,
-          autoPlay: false,
-          verticalEnabled: true,
-          startTime: 'START_TIME'
-      });
-  </script>
+<a href="https://iclr.cc/virtual/2023/oral/12528" target="_blank">
+    <img src="images/iclr_thumbnail.png" alt="Your Image Description">
+</a>
 
   <br><br><br><br><br>
   Invited Talk at CAMI Data Science Seminar 11/2020
