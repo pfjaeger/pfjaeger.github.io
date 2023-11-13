@@ -98,8 +98,17 @@ extra_html: |
   
   Oral ("top-5% paper") at ICLR 05/2023
   <br><br>
-  <iframe src="https://slideslive.com/embed/presentation/38998586?js_embed_version=3&amp;embed_init_token=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2OTk5MDY3MzIsImV4cCI6MTcwMDAzNjMzMiwidSI6eyJ1dWlkIjoiMzc5YWRiMDUtMTNlNC00NWQ5LThkM2UtNTM2MWE3ZGQzNzBhIiwiaSI6MzM4MzcsImUiOiJwamFlZ2VyODlAZ29vZ2xlbWFpbC5jb20iLCJtIjpmYWxzZX0sImQiOiJpY2xyLmNjIn0.l__m17eg9xa-816xHpK3hF95sFG0lKqQkR9tBwJItn4&amp;embed_parent_url=https%3A%2F%2Ficlr.cc%2Fvirtual%2F2023%2Foral%2F12528&amp;embed_origin=https%3A%2F%2Ficlr.cc&amp;embed_container_id=presentation-embed-38998586&amp;auto_load=true&amp;auto_play=false&amp;zoom_ratio=&amp;disable_fullscreen=false&amp;locale=en&amp;vertical_enabled=true&amp;vertical_enabled_on_mobile=false&amp;allow_hidden_controls_when_paused=true&amp;fit_to_viewport=true&amp;custom_user_id=&amp;user_uuid=379adb05-13e4-45d9-8d3e-5361a7dd370a" height="777" scrolling="no" frameborder="0" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-top-navigation allow-storage-access-by-user-activation" allow="autoplay; fullscreen" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="margin: 0px auto; display: block; width: 100%;"></iframe>
-  
+  <div id="embed"></div>
+  <script src="https://slideslive.com/embed_presentation.js"></script>
+  <script>
+      embed = new SlidesLiveEmbed('embed', {
+          presentationId: 38998586,
+          autoPlay: false,
+          verticalEnabled: true,
+          startTime: 'START_TIME'
+      });
+  </script>
+
   <br><br><br><br><br>
   Invited Talk at CAMI Data Science Seminar 11/2020
   <br><br>
