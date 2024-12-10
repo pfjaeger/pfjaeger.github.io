@@ -58,16 +58,16 @@ avatar: "images/paul_new_foto_squared_lowres.jpg"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - github:
-      name: GitHub
-      show: true
-      href: https://github.com/pfjaeger
-      icon: fab fa-github
   - googlescholar:
       name: Google Scholar
       show: true
       href: https://scholar.google.de/citations?user=9B9-8h0AAAAJ&hl=de
       icon: fas fa-graduation-cap
+  - github:
+      name: GitHub
+      show: true
+      href: https://github.com/pfjaeger
+      icon: fab fa-github
   - twitter:
       name: Twitter
       show: true
@@ -83,10 +83,10 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 extra_html: |
 
-<br><br><br><br><br>
-HFMI: A national research initiative I co-created 06/2024
- <br><br>
-<iframe width="1239" height="697" src="https://www.youtube.com/embed/enA0Of36PP0" title="Helmholtz Foundation Model Initiative" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <br><br><br><br><br>
+  HFMI, A national research initiative I co-created 06/2024
+  <br><br>
+  <iframe width="1239" height="697" src="https://www.youtube.com/embed/enA0Of36PP0"  title="Helmholtz Foundation Model Initiative" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  <br><br><br><br><br>
   
