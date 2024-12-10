@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Paul F. Jaeger
 #subtitle:
-subtitle: PI of <a href="https://iml-dkfz.github.io/" style="color:rgb(211,211,211)"> Interactive Machine Learning Research Group</a> at DKFZ and <a href="https://www.helmholtz-imaging.de" style="color:rgb(211,211,211)">Helmholtz-Imaging</a>.<br> Faculty member of the <a href="https://ellis.eu/units/heidelberg" style="color:rgb(211,211,211)"> ELLIS Unit Heidelberg</a>. Previously at <a href="https://www.dkfz.de/en/mic/index.php" style="color:rgb(211,211,211)">MIC-DKFZ</a>, <a href="https://cvhci.anthropomatik.kit.edu/587.php" style="color:rgb(211,211,211)">KIT</a>, and <a href="https://research.fb.com/category/facebook-ai-research/index.php" style="color:rgb(211,211,211)">Facebook AI Research</a>.
+subtitle: Senior Research Scientist at Google DeepMind. Ex- DKFZ, ELLIS, KIT, Meta FAIR</a>.
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -68,11 +68,6 @@ links:
       show: true
       href: https://scholar.google.de/citations?user=9B9-8h0AAAAJ&hl=de
       icon: fas fa-graduation-cap
-  - CV:
-      name: CV
-      show: true
-      href: https://drive.google.com/file/d/1NsS-MKQVfvtH04yEVrVb3QaJ8z5xXfCk/view?usp=sharing
-      icon: fas fa-file
   - twitter:
       name: Twitter
       show: true
@@ -81,13 +76,8 @@ links:
   - email:
       name: Email
       show: true
-      href: mailto:p.jaeger@dkfz.de
+      href: mailto:paulfjaeger@icloud.com
       icon: fas fa-envelope
-  - hdai:
-      name: Heidelberg AI
-      show: true
-      href: https://heidelberg.ai
-      icon: fas fa-users
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
