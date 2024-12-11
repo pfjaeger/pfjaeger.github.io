@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Paul F. Jaeger
 #subtitle:
-subtitle: Health AI Researcher at Google DeepMind. Ex- DKFZ, ELLIS, KIT, Meta FAIR</a>.
+subtitle: Health AI Researcher at Google DeepMind. Ex- DKFZ, ELLIS, KIT, Meta FAIR </a>.
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -58,35 +58,41 @@ avatar: "images/paul_new_foto_squared_lowres.jpg"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - googlescholar:
-      name: Google Scholar
-      show: true
-      href: https://scholar.google.de/citations?user=9B9-8h0AAAAJ&hl=de
-      icon: fas fa-graduation-cap
   - github:
       name: GitHub
       show: true
       href: https://github.com/pfjaeger
       icon: fab fa-github
+  - googlescholar:
+      name: Google Scholar
+      show: true
+      href: https://scholar.google.de/citations?user=9B9-8h0AAAAJ&hl=de
+      icon: fas fa-graduation-cap
+  - CV:
+      name: CV
+      show: true
+      href: https://drive.google.com/file/d/1NsS-MKQVfvtH04yEVrVb3QaJ8z5xXfCk/view?usp=sharing
+      icon: fas fa-file
   - twitter:
       name: Twitter
       show: true
       href: https://twitter.com/pfjaeger
       icon: fab fa-twitter
- - linkedin:
-      name: LinkedIn
-      show: true
-      href: https://www.linkedin.com/in/paul-f-jaeger-990285122/
-      icon: fab fa-linkedin
   - email:
       name: Email
       show: true
-      href: mailto:paulfjaeger@icloud.com
+      href: mailto:p.jaeger@dkfz.de
       icon: fas fa-envelope
+  - hdai:
+      name: Heidelberg AI
+      show: true
+      href: https://heidelberg.ai
+      icon: fas fa-users
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 extra_html: |
+
 
  <br><br><br><br><br>
   
@@ -152,5 +158,3 @@ extra_html: |
 #autoPlay: false, // change to true to autoplay the embedded presentation
 #verticalEnabled: true
 #});
-
-
