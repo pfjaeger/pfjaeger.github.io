@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Paul F. Jaeger
 #subtitle:
-subtitle: Senior Research Scientist at Google DeepMind. Ex- DKFZ, ELLIS, KIT, Meta FAIR</a>.
+subtitle: Health AI Researcher at Google DeepMind. Ex- DKFZ, ELLIS, KIT, Meta FAIR</a>.
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -73,6 +73,11 @@ links:
       show: true
       href: https://twitter.com/pfjaeger
       icon: fab fa-twitter
+ - linkedin:
+      name: LinkedIn
+      show: true
+      href: https://www.linkedin.com/in/paul-f-jaeger-990285122/
+      icon: fab fa-linkedin
   - email:
       name: Email
       show: true
@@ -82,11 +87,6 @@ links:
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 extra_html: |
-
-  <br><br><br><br><br>
-  HFMI, A national research initiative I co-created 06/2024
-  <br><br>
-  <iframe width="1239" height="697" src="https://www.youtube.com/embed/enA0Of36PP0"  title="Helmholtz Foundation Model Initiative" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  <br><br><br><br><br>
   
