@@ -68,11 +68,11 @@ links:
       show: true
       href: https://scholar.google.de/citations?user=9B9-8h0AAAAJ&hl=de
       icon: fas fa-graduation-cap
-  - CV:
-      name: CV
+  - linked:
+      name: LinkedIn
       show: true
-      href: https://drive.google.com/file/d/1NsS-MKQVfvtH04yEVrVb3QaJ8z5xXfCk/view?usp=sharing
-      icon: fas fa-file
+      href: https://www.linkedin.com/in/paul-f-jaeger-990285122/
+      icon: fab fa-linkedin  
   - twitter:
       name: Twitter
       show: true
@@ -83,11 +83,6 @@ links:
       show: true
       href: mailto:p.jaeger@dkfz.de
       icon: fas fa-envelope
-  - hdai:
-      name: Heidelberg AI
-      show: true
-      href: https://heidelberg.ai
-      icon: fas fa-users
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
