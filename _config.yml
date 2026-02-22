@@ -72,16 +72,6 @@ links:
       show: true
       href: https://www.linkedin.com/in/paul-f-jaeger-990285122/
       icon: fab fa-linkedin  
-  - twitter:
-      name: Twitter
-      show: true
-      href: https://twitter.com/pfjaeger
-      icon: fab fa-twitter
-  - email:
-      name: Email
-      show: true
-      href: mailto:p.jaeger@dkfz.de
-      icon: fas fa-envelope
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
